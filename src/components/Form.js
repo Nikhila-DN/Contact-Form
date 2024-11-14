@@ -27,7 +27,7 @@ export default function ContactForm(){
 
     return(
 
-        <section className="my-10 mx-4 rounded-xl lg:my-10 lg:flex lg:items-center lg:justify-center lg:h-screen">
+        <section className="my-10 mx-4 rounded-xl lg:my-2 lg:flex lg:items-center lg:justify-center lg:h-screen">
             <div className="bg-white p-4 rounded-lg shadow max-w-2xl mx-auto w-full">
                 <h2 className="text-teal-950 text-center lg:text-left text-2xl font-semibold mb-8">
                     Contact Form
