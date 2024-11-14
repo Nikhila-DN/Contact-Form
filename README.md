@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Nikhila-DN/Contact-Form.git
-- Live Site URL: https://Contact-form-frontend-Mentor-challenge-dn.netlify.app/
+- Live Site URL: https://Contact-form-Frontend-Mentor-challenge-dn.netlify.app/
 
 ## My process
 
